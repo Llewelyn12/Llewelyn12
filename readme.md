@@ -1,4 +1,4 @@
-### Hi there 👋 Nice to see u.
+#### Welcome to M'Github
 
 - 😄 My name is: Teeraphat Muaksang
 - ⚡ Student id: 63362907
@@ -23,12 +23,8 @@
   </a> 
 
 <a href="#">
-    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/languages/Python-logo-notext.svg" alt="python" style="vertical-align:top; margin:6px 4px">
   </a> 
-
-<a href="#">
-    <img src="svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
-  </a>
 
 </P>
 
