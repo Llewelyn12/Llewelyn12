@@ -52,7 +52,7 @@
   </a>
 </p>
 
-## Contact
+## Contact with me
 <p align="left">
 <a href="#">
     <a href = "https://www.instagram.com/rf_trp8/" target = "blank"> <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
