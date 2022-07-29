@@ -1,15 +1,26 @@
-#### Welcome to M'Github
+# Welcome to Llewelyn Git :rocket:
 
 - 😄 My name is: Teeraphat Muaksang
 - ⚡ Student id: 63362907
 - 🔭 I'm currently studying on Faculty of Engineering.
 - :open_file_folder: I'm interest in database management system.
 - :book: My favourite subject in computer engineering is computer mathematics.
-
 ## Developer Tech
+
+
+### Contact
+<p align="left">
+<a href="#">
+    <img src="svg/dev/frameworks/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+<a href="#">
+    <img src="svg/dev/frameworks/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
+  </a>
 
 ### Frameworks 
 <p align="left">
+<a href="#">
 <a href="#">
     <img src="svg/dev/frameworks/nodejs_larger.svg" alt="nodejs_larger" style="vertical-align:top; margin:6px 4px">
   </a> 
@@ -23,7 +34,11 @@
   </a> 
 
 <a href="#">
-    <img src="svg/dev/languages/Python-logo-notext.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+<a href="#">
+    <img src="svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
   </a> 
 
 </P>
