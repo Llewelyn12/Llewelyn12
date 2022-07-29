@@ -63,11 +63,11 @@
   </a>
   
 # My Hobby
-## Playing Valorant and this is my favorite characters is [Sage](https://valorant.fandom.com/wiki/Sage) 
+## :space_invader: Playing Valorant and this is my favorite characters is [Sage](https://valorant.fandom.com/wiki/Sage) 
 [![image](https://cdnb.artstation.com/p/assets/images/images/029/918/815/medium/hsaung-hnin-sett-final-png-1.jpg?1599208027)](#)
 ### Describe about Sage
 We are Valorant, we re fightest!
-## Listening to music
+:musical_note: ## Listening to music
 ### This is my favorite artist [Taylor swift](https://www.taylorswift.com/)
 [![image](https://www.pinkvilla.com/imageresize/taylor_swift_receives_degree.jpg?width=752&format=webp&t=pvorg)](#)
 #### Taylor swift is the famous artist and she's graduated in Ph.D of Fine Arts from New York University
