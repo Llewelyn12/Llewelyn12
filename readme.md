@@ -68,7 +68,8 @@
 ### Describe about Sage
 We are Valorant, we re fightest!
 ## Listeining to music
-### This is my favorite artist 
+### This is my favorite artist [Taylor swift](https://www.taylorswift.com/)
 [![image](https://www.pinkvilla.com/imageresize/taylor_swift_receives_degree.jpg?width=752&format=webp&t=pvorg)](#)
 #### Taylor swift is the famous artist and she's graduated in Ph.D of Fine Arts from New York University
-
+#### I have some recomended this song for you all
+[![Watch the video](https://www.youtube.com/watch?v=-CmadmM5cOk)
