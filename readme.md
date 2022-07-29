@@ -61,5 +61,5 @@
 <a href="#">
     <a href = "https://twitter.com/Moonoi2000s" target = "blank"> <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
   </a>
-[![image](https://hsaunghninsett.artstation.com/projects/3dbrAA)](#)
+[![image](https://cdnb.artstation.com/p/assets/images/images/029/918/815/medium/hsaung-hnin-sett-final-png-1.jpg?1599208027)](#)
 
