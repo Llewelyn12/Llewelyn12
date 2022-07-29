@@ -23,7 +23,7 @@
   </a> 
 
 <a href="#">
-    <img src="svg/dev/languages/Python-logo-notext.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/languages/Python-logo-notext.svg" alt="Python-logo-notext" style="vertical-align:top; margin:6px 4px">
   </a> 
 
 </P>
