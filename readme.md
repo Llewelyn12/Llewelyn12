@@ -3,8 +3,8 @@
 - 😄 My name is: Teeraphat Muaksang
 - ⚡ Student id: 63362907
 - 🔭 I'm currently studying on Faculty of Engineering.
-- :open_file_folder: I'm interest in database management system.
-- :book: My favourite subject in computer engineering is computer mathematics.
+- :open_file_folder: I'm interested in the database management systems.
+- :book: My favorite subject is computer mathematic.
 ## Developer Tech
 
 
