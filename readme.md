@@ -67,9 +67,9 @@
 [![image](https://cdnb.artstation.com/p/assets/images/images/029/918/815/medium/hsaung-hnin-sett-final-png-1.jpg?1599208027)](#)
 ### Describe about Sage
 We are Valorant, we re fightest!
-## Listeining to music
+## Listening to music
 ### This is my favorite artist [Taylor swift](https://www.taylorswift.com/)
 [![image](https://www.pinkvilla.com/imageresize/taylor_swift_receives_degree.jpg?width=752&format=webp&t=pvorg)](#)
 #### Taylor swift is the famous artist and she's graduated in Ph.D of Fine Arts from New York University
-#### I would like to recomended this song for you all
-[![Watch the video](https://img.youtube.com/vi/CmadmM5cOk/maxresdefault.jpg)](https://youtu.be/-CmadmM5cOk)
+### I would like to recomended this song for you all [Style](https://www.youtube.com/watch?v=-CmadmM5cOk)
+[![Watch the video](https://i.ytimg.com/vi/-CmadmM5cOk/maxresdefault.jpg)](https://youtu.be/-CmadmM5cOk)
