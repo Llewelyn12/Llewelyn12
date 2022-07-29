@@ -57,7 +57,7 @@
 <p align="left">
 <a href="#">
 <a href="#">
-    <href = "https://twitter.com/Moonoi2000s" target = "blank"> <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
+    <href = "https://twitter.com/Moonoi2000s"> <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
   </a> 
 
 
