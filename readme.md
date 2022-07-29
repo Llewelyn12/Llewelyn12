@@ -8,16 +8,6 @@
 ## Developer Tech
 
 
-### Contacts
-<p align="left">
-<a href="#">
-    <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
-<a href="#">
-    <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
-  </a>
-
 ### Frameworks 
 <p align="left">
 <a href="#">
@@ -61,3 +51,14 @@
     <img src="svg/devices/pc.svg" alt="pc" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
+
+
+## Contact
+<p align="left">
+<a href="#">
+    <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+<a href="#">
+    <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
+  </a>
