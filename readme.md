@@ -63,7 +63,7 @@
   </a>
   
 # My Hobby
-## Playing Valorant and this is my favorite characters is Sage 
+## Playing Valorant and this is my favorite characters is [Sage](https://valorant.fandom.com/wiki/Sage) 
 [![image](https://cdnb.artstation.com/p/assets/images/images/029/918/815/medium/hsaung-hnin-sett-final-png-1.jpg?1599208027)](#)
 ### Describe about Sage
 We are Valorant, we re fightest!
