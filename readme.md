@@ -3,7 +3,7 @@
 - 😄 My name is: Teeraphat Muaksang
 - ⚡ Student id: 63362907
 - 🔭 I'm currently studying on Faculty of Engineering.
-
+- powercfg /batteryreporti'm interesting in database management system
 ## Developer Tech
 
 ### Frameworks 
