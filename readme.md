@@ -3,20 +3,13 @@
 - 😄 My name is: Teeraphat Muaksang
 - ⚡ Student id: 63362907
 - 🔭 I'm currently studying on Faculty of Engineering.
-- :floppy_disk: i'm interesting in database management system
+- :open_file_folder: I'm interest in database management system.
+- :book: My favourite subject in computer engineering is computer mathematics.
 
 ## Developer Tech
 
 ### Frameworks 
 <p align="left">
-<a href="#">
-    <img src="svg/dev/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-<a href="#">
-    <img src="svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
 <a href="#">
     <img src="svg/dev/frameworks/nodejs_larger.svg" alt="nodejs_larger" style="vertical-align:top; margin:6px 4px">
   </a> 
