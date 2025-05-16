@@ -61,23 +61,3 @@
 <a href="#">
     <a href = "https://twitter.com/Moonoi2000s" target = "blank"> <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
   </a>
-  
-# My Hobby :pushpin:
-## :space_invader: Playing Valorant 
-### This is my favorite characters name's Sage
-[![image](https://cdnb.artstation.com/p/assets/images/images/029/918/815/medium/hsaung-hnin-sett-final-png-1.jpg?1599208027)](#)
-### Describe about [Sage](https://valorant.fandom.com/wiki/Sage)
-We are Valorant, we re fighter!
-## :musical_note: Listening to music
-### This is my favorite artist [Taylor swift](https://www.taylorswift.com/)
-[![image](https://www.pinkvilla.com/imageresize/taylor_swift_receives_degree.jpg?width=752&format=webp&t=pvorg)](#)
-### Describe about name's Taylor swift
-#### Taylor swift is the famous artist and she's early graduated in Ph.D of Fine Arts from New York University and I would like to recomended this song for you all [Style](https://www.youtube.com/watch?v=-CmadmM5cOk)
-[![Watch the video](https://i.ytimg.com/vi/-CmadmM5cOk/maxresdefault.jpg)](https://youtu.be/-CmadmM5cOk)
-#### Taylos's contacts :iphone:
-<p align="left">
-<a href="#">
-    <a href = "(https://www.instagram.com/taylorswift/?hl=en)" target = "blank"> <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px"> :gift_heart:
-  </a> 
-    
-  ![My image](https://scontent.fphs2-1.fna.fbcdn.net/v/t1.15752-9/294312210_589917056044785_4830355025473389195_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeEY3xJ1QE9rYZBVE5vZTHUB8d6IIgV35PXx3ogiBXfk9eWc7wZIRHkunvT0xKrTc6zEsRPI8wq799Ih4Z-Pzzn_&_nc_ohc=5xOOdPK4PAUAX-6etLM&_nc_ht=scontent.fphs2-1.fna&oh=03_AVK6jGgePkVsj112Ta3KThmmgPVFjvVjb98r4ahzMalntg&oe=630A52E3)
